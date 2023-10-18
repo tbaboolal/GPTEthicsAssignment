@@ -7,7 +7,7 @@ In this project, a survey conducted on google forums to assess where ChatGPT bel
  Main.py this script reads data from an Excel file and uses MatplotLib to create graphs to help visualizes various aspects such as program distribution, age distribution, and perceptions about using ChatGPT within academia. 
 
 ## Pre Reqs
-Python
-Matplotlib
-Pandas
-Numpy
+- Python
+- Matplotlib
+- Pandas
+- Numpy
